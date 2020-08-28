@@ -34,7 +34,7 @@ goeach -cmd "echo ${file}" -p .+\.go -dir goeach
 
 # install
 ````
-git clone goeach
+git clone https://github.com/desktopgame/goeach.git
 cd goeach
 go install
 ````
