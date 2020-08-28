@@ -32,8 +32,6 @@ goeach -cmd "echo ${file}" -i
 goeach -cmd "echo ${file}" -p .+\.go -dir goeach
 ````
 
-
-
 # install
 ````
 git clone goeach
