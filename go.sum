@@ -1,0 +1,4 @@
+github.com/buildkite/interpolate v0.0.0-20200526001904-07f35b4ae251 h1:k6UDF1uPYOs0iy1HPeotNa155qXRWrzKnqAaGXHLZCE=
+github.com/buildkite/interpolate v0.0.0-20200526001904-07f35b4ae251/go.mod h1:gbPR1gPu9dB96mucYIR7T3B7p/78hRVSOuzIWLHK2Y4=
+github.com/desktopgame/filetree v0.0.0-20200818130109-16dbf17954cd h1:YqCm+zNbt4pRKruDMDxplzDKIbiDsakIVSyKcVMoeSo=
+github.com/desktopgame/filetree v0.0.0-20200818130109-16dbf17954cd/go.mod h1:MHW7dCXiYOVrgqXRrkQzb6mTQdvql11JKmofXs0Z36c=
